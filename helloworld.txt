@@ -4,4 +4,4 @@ created newbranch3 and made changes in helloworld
 
 editing in master branch for merge conflicts
 
-editing in the newbaranch3 for merge conflicts
+editing in the newbranch4 for merge conflicts
