@@ -14,4 +14,5 @@ hw for rebasing conflicts example on masterb
 after rebasing of rbbranch we did merging of rbb & master and now editing
 hw for rebasing conflicts example on rbcbranch
 
- 
+resolved rebase conflicts and making change in the rbcb to make an extra
+commit onto the rbcb 
