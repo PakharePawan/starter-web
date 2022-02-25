@@ -4,4 +4,5 @@ editing robots on master for rebasing example
 
 editing robots after rebase on rbbranch
 
+editing robots after resolving rebasing conflicts
 User-agent: *
