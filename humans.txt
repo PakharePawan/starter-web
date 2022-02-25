@@ -18,3 +18,5 @@
 # created newbranch3 and edited humasn.txt for trying automerge 
 
 editing humans to configure stash to only stash tracked files
+
+editing for multile stashes

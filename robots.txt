@@ -10,5 +10,5 @@ editing robots for stashing
 # robots.txt was stashed and we edited HW which was needed attention
 editing robots after again after editing urgently required files
 
-
+editing robots after removing from stash just because we didn't need it
 User-agent: *
