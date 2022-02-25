@@ -16,3 +16,5 @@
 
 # edited hellloworld and now editing humans.txt
 # created newbranch3 and edited humasn.txt for trying automerge 
+
+editing humans to configure stash to only stash tracked files
