@@ -20,3 +20,5 @@ commit onto the rbcb
 editing hw on github to stop incoming changes form remote repo 
 
 editing hw for stash example
+
+editing hw for recording tracked and untracked files using stash
