@@ -9,4 +9,9 @@ editing in the newbranch4 for merge conflicts
 editing hw on master for rebsing example
 
 after rebasing of rbbranch we did merging of rbb & master and now editing
-hw for rebasing conflicts example on masterb. 
+hw for rebasing conflicts example on masterb
+
+after rebasing of rbbranch we did merging of rbb & master and now editing
+hw for rebasing conflicts example on rbcbranch
+
+ 
