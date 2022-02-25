@@ -5,4 +5,10 @@ editing robots on master for rebasing example
 editing robots after rebase on rbbranch
 
 editing robots after resolving rebasing conflicts
+
+editing robots for stashing 
+# robots.txt was stashed and we edited HW which was needed attention
+editing robots after again after editing urgently required files
+
+
 User-agent: *
