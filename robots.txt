@@ -11,4 +11,7 @@ editing robots for stashing
 editing robots after again after editing urgently required files
 
 editing robots after removing from stash just because we didn't need it
+
+editing for tagging example
+
 User-agent: *
