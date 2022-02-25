@@ -25,3 +25,5 @@ editing hw for recording tracked and untracked files using stash
 
 deleted hw just because we didn't need it and now editing again
 
+editing for tagging example
+
